@@ -11,8 +11,7 @@ The database stores:
 
 ## Files
 
-* `Football_Ticket_Booking_System.sql` – Creates the database tables and inserts sample data.
-* `QUERY.sql` – Contains the required SQL queries for the assignment.
+* `Football_Ticket_Booking_System.sql` – Creates the database tables and inserts sample data and Contains the required SQL queries for the assignment.
 
 
 ## Database Tables
